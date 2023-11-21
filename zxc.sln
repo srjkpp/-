@@ -22,7 +22,7 @@ Global
 		{2FC0A823-474F-4F00-A611-C74A269A3F48}.Release|x86.ActiveCfg = Release|Win32
 		{2FC0A823-474F-4F00-A611-C74A269A3F48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
+	GlobalSection(SolutionProperties) = zxcqwe
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
